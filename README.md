@@ -2,9 +2,10 @@
 
 ## For cycle
 
-**Human:** Count from "one" to "ten" by putting the next word and a phrase with it between the XML tags named as <tag_one>, <tag_two> etc. The phrase with the word should be:"Now I think about [the word] sheep".
+**Human:** <br>Count from "one" to "ten" by putting the next word and a phrase with it between the XML tags named as <tag_one>, <tag_two> etc. The phrase with the word should be:"Now I think about [the word] sheep".
 
-> **Machina:** <tag_one>One Now I think about one sheep</tag_one>
+**Model:**<br>
+> <tag_one>One Now I think about one sheep</tag_one>
 <br><tag_two>Two Now I think about two sheep</tag_two>
 <br><tag_three>Three Now I think about three sheep</tag_three>
 <br><tag_four>Four Now I think about four sheep</tag_four>
