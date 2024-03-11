@@ -15,3 +15,8 @@
 <br><tag_eight>Eight Now I think about eight sheep</tag_eight>
 <br><tag_nine>Nine Now I think about nine sheep</tag_nine>
 <br><tag_ten>Ten Now I think about ten sheep</tag_ten>
+
+**Human:** <br>Do you feel sleepy?
+
+**Model:** <br>
+> As an AI, I don't have feelings or physical sensations, so I don't feel sleepy. But I'm here to assist you whenever you need help!
