@@ -20,3 +20,25 @@
 
 **Model:** <br>
 > As an AI, I don't have feelings or physical sensations, so I don't feel sleepy. But I'm here to assist you whenever you need help!
+
+## Following depends on the previous
+
+**Human:**<br>
+Please refine the sentence 'Whether tis nobler in the mind to suffer the slings and arrows of outrageous fortune of to take arms against the sea of troubles and by opposing end them?' as much as possible. After each iteration, provide the refined version, and ask me if you should continue refining.
+
+**Model**<br>
+> Refined version: "Is it nobler to endure life's hardships passively or to actively confront them and bring about their resolution?" Should I continue refining?
+
+**Human:**
+<br>Yes
+
+**Model**<br>
+> Refined version: "Is it better to passively endure life's challenges or to actively confront them to overcome?" Should I continue refining?
+
+
+
+**Model**<br>
+> Refined version: "Is it wiser to passively endure life's adversities or to actively confront them for resolution?" Should I continue refining?
+
+**Human:**
+<br>No
