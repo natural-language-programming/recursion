@@ -43,3 +43,6 @@ Please refine the sentence 'Whether tis nobler in the mind to suffer the slings 
 
 **Human:**
 <br>No
+
+## True recursion
+_If you want to achieve true recursion - generate a response, then post it in the next request to the API as a part of the **User / Human** message._
